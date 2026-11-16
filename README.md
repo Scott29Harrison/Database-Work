@@ -11,6 +11,8 @@ The files for this assignment include:
 - Valid_Sample_Data.sql (an SQL script to populate the database with valid date)
 - RoomBooking.php (the php file containing all the web page information)
 - Coursework1 report.docx (the report for the assignment)
+- EASE Ltd Concept.drawio (conceptual ERD)
+- EASE Ltd Logical.drawio (logical ERD)
 
 
 ## Year 2: Advanced Database Essay
